@@ -19,7 +19,10 @@
 >demo ------------- 小程序JSAPI完整DEMO  
 >src  --------------- 小程序JSAPI源码   
 >readme.md -----------帮助文档
+<<<<<<< HEAD
 >login.md ------------日志文档
+=======
+>>>>>>> 4b3c3f49b2a6ddbfd40f768c18c92a286e2b835e
 
 ##类参考
 <h3>BMapWX</h3>
